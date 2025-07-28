@@ -1,5 +1,7 @@
 # 🚗 Previsão de Preço de Carros Usados na Índia
 
+![Carros na Índia](https://conteudo.imguol.com.br/c/noticias/ae/2015/12/16/15out2015---transito-intenso-em-rua-de-nova-deli-india-1450269852888_615x300.jpg)
+
 Este projeto utiliza **Machine Learning** para prever o preço de **carros usados na Índia** com base em diversas características dos veículos. O objetivo é resolver um problema de **regressão supervisionada**, aplicando diferentes algoritmos e técnicas de pré-processamento para melhorar a performance dos modelos.
 
 ## 📁 Sobre o Dataset
